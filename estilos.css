@@ -1,0 +1,94 @@
+body {
+    background-color: #fffbf7;
+  }
+  
+  h1 {
+    color: #025157;
+    text-align: center;
+  }
+  
+  p {
+    color: #8b8b8bcc;
+    font-family: Verdana;
+    font-size: 20px;
+  }
+  
+  button {
+    color: #fff;
+    background-color: #025157;
+  }
+  
+  .header {
+    /* margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px; */
+
+    margin: 40px 20px 0;
+    font-size: 0;
+  }
+  
+  li {
+    display: inline;
+    padding: 0 25px 0;
+    color: #025157;
+  }
+  
+  .header > * {
+    display: inline-block;
+    font-size: 16px;
+    line-height: 45px;
+    height: 100%;
+    vertical-align: middle;
+  }
+
+  .navbar > *{
+    color: #025157;
+    font-size: 25px;
+  }
+
+  .logo > img {
+    width: 15%;
+  }
+
+  
+  .logo {
+    width: 15%;
+  }
+  
+  .navbar {
+    width: 70%;
+    text-align: left;
+    font-weight: 500;
+    font-family: sans-serif;
+    height: 45px;
+  }
+
+  .actions {
+    width: 15%;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 600;
+    
+  }
+
+  .actions > * {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  .main{
+    margin-top: 140px;
+    text-align: center;
+  }
+
+  .linkAction {
+    color: #67b54b;
+  }
+
+  .buttonStar
+  {
+    color: white;
+    background-color: #67b54b;
+    padding: 12px 14px 12px;
+    border-radius: 5px;
+  }
